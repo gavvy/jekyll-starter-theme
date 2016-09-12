@@ -4,7 +4,8 @@ title:  A Revolutionary Axis
 ---
 
 # {{ page.title }}
-# Snuggling with Tigers
+
+#Snuggling with Tigers
 
 
 _Add your text here_
