@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title:    'Back to Some Obscure Threshold'
-subtitle: 'Beyond Many Layers'
+title:    'Gavriella Ravid'
+subtitle: 'An engineer in the works'
 
 
 ## note:
@@ -11,7 +11,7 @@ subtitle: 'Beyond Many Layers'
 #    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
 
 path:  '/jekyll-starter-theme'
-url:   'http://henrythemes.github.io/jekyll-starter-theme'
+url:   'https://github.com/gavvy/goldenratio.github.io'
 
 
 #########################
